@@ -183,7 +183,12 @@ h2{
         width: 100%;
     }
     
-   
+   h1{
+  font-size: 30px;
+  letter-spacing: 10px;
+  text-align: center;
+ 
+}
       
       .events {
        
@@ -194,6 +199,12 @@ h2{
       .video {
           width: 100%;
     }
+    
+    .video p{
+ 
+   font-size: 50px;
+}
+    
       .about {
           width: 100p%;
       }
