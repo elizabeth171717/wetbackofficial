@@ -200,14 +200,16 @@ h2{
           width: 100%;
     }
     
+    iframe{
+        width:100%;
+      }
+    
     .video p{
  
    font-size: 50px;
 }
     
-      .about {
-          width: 100p%;
-      }
+     
     
       .gallery {
           width: 100%;
