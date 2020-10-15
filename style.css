@@ -104,12 +104,10 @@ h2{
     margin-top: 20px;
 }
 
-.about h5 {
-  margin: 20px;
-}
 
 .about p {
-  margin:20px;
+  margin: 20px;
+    font-family: 'Fredericka the Great', cursive;
 }
 
 .gallery {
