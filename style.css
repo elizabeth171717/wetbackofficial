@@ -190,10 +190,15 @@ body {
     
     .social-links {
         width: 100%;
-        display: flex;
-        justify-content: center;
-        flex-direction: row;
+        
+     
     }
+
+.fab {
+    color: black;
+    font-size: 80px;
+    padding: 5px;
+}
 
     .intro {
         width: 100%;
