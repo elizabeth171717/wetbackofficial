@@ -68,10 +68,10 @@ body {
 .first h2{
     font-size: 80px;
     background-color: white;
-    animation: heading-load 300ms ease-out;
+   
 }
 
-@keyframes heading-load {
+@keyframes pic-load {
     0% {
     transform: translateY(-100%);
     }
@@ -81,8 +81,9 @@ body {
     }
 }
 
-  .intro .second img {
+ .second img {
    border: double 20px white;
+   animation: pic-load 500ms ease-out; 
 }
 
 .events {
