@@ -83,7 +83,7 @@ body {
 
  .second img {
    border: double 20px white;
-   animation: pic-load 500ms ease-out; 
+   animation: pic-load 700ms ease-out; 
 }
 
 .events {
