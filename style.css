@@ -256,6 +256,14 @@ body {
           width: 100%;
     }
 
+    .video p{
+  
+  font-size: 50px;
+
+}
+
+    
+    
     iframe{
         width:100%;
          
@@ -272,4 +280,14 @@ body {
       .about {
           width: 100%;
       }
+    
+    .about h6 {
+  margin: 10px;
+  font-size: 30px;
+}
+
+.about p {
+  margin:10px;
+  font-size: 20px;
+}
 }
